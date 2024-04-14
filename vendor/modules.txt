@@ -25,8 +25,8 @@ github.com/jessevdk/go-flags
 github.com/kubaceg/sofar_g3_lsw3_logger_reader/adapters/comms/tcpip
 github.com/kubaceg/sofar_g3_lsw3_logger_reader/adapters/devices/sofar
 github.com/kubaceg/sofar_g3_lsw3_logger_reader/ports
-# github.com/prometheus/client_golang v1.19.0
-## explicit; go 1.20
+# github.com/prometheus/client_golang v1.18.0
+## explicit; go 1.19
 github.com/prometheus/client_golang/prometheus
 github.com/prometheus/client_golang/prometheus/internal
 github.com/prometheus/client_golang/prometheus/promauto

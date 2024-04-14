@@ -6,7 +6,7 @@ require (
 	github.com/d2r2/go-logger v0.0.0-20210606094344-60e9d1233e22
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/kubaceg/sofar_g3_lsw3_logger_reader v0.0.0-20231211192211-e6707235de14
-	github.com/prometheus/client_golang v1.19.0
+	github.com/prometheus/client_golang v1.18.0
 )
 
 require (
